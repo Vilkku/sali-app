@@ -1,25 +1,35 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { workoutList, workouts } from './data';
+import Home from './Home';
+import Workout from './Workout';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div>
+        <h1>Sali-App</h1>
+
+        <nav>
+          <ul>
+            <li>
+              <Link to="/">Home</Link>
+            </li>
+            {workoutList.map(id => {
+              const workout = workouts[id];
+              return (
+                <li>
+                  <Link to={'/workouts/' + id}>{workout.name}</Link>
+                </li>
+              );
+            })}
+          </ul>
+        </nav>
+
+        <Route path="/" exact component={Home} />
+        <Route path="/workouts/:id" component={Workout} />
+      </div>
+    </Router>
   );
 }
 
