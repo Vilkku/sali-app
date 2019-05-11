@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"D",
+				"DisplayName"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"pa",
+				"parentWidth"
+			],
+			[
+				"sib",
+				"siblingCount"
+			],
+			[
+				"si",
+				"siblingCount"
+			],
+			[
+				"re",
+				"remainingSpace"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Users/Vilkku/Desktop/sali-app"
+	],
+	"file_history":
+	[
+		"/C/Users/vilkk/AppData/Local/Temp/scp36262/public_html/incl/events.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp45927/public_html/incl/events.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp41572/public_html/incl/aktuellt.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp40151/public_html/incl/oppet.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp22178/public_html/incl/oppet.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp21463/public_html/incl/aktuellt.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp22969/public_html/incl/events.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp22606/public_html/en/contact.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp22446/public_html/fi/index.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp22568/public_html/en/index.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp22860/public_html/fi/yhteys.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp22403/public_html/sv/index.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp22610/public_html/sv/kontakt.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp12223/public_html/incl/aktuellt.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp11213/public_html/en/contact.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp11769/public_html/en/index.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp10986/public_html/fi/yhteys.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp10871/public_html/fi/index.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp09097/public_html/sv/kontakt.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp09299/public_html/sv/index.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp30192/public_html/incl/events.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp12788/public_html/incl/oppet.php",
+		"/D/www/aboland-org/registration/numregistered.php",
+		"/D/www/aboland-org/config.php",
+		"/D/Users/Vilkku/Dropbox/Pathfinder RPG/PFS Character.md",
+		"/D/Users/Vilkku/Downloads/ynab_data.csv",
+		"/D/Users/Vilkku/Downloads/Transaktioner_FI4216383500006368_20170901_20171005.csv",
+		"/D/Users/Vilkku/Downloads/Transaktioner_FI4216383500006368_20170901_20171005.txt",
+		"/D/www/improved-initiative/html/playerview.html",
+		"/D/www/improved-initiative/client/Utility/Components.ts",
+		"/D/www/improved-initiative/client/Utility/Store.ts",
+		"/D/www/improved-initiative/client/Encounter/Encounter.ts",
+		"/D/Users/Vilkku/Documents/improved-initiative.sublime-project",
+		"/D/www/improved-initiative/build/ImprovedInitiative.js",
+		"/C/Users/vilkk/AppData/Local/Temp/scp13098/public_html/incl/oppet.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp26303/public_html/incl/events.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp27659/public_html/incl/oppet.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp27927/public_html/incl/aktuellt.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp42664/public_html/incl/imagemenu.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp42926/public_html/js/menu.js",
+		"/C/Users/vilkk/AppData/Local/Temp/scp40771/public_html/incl/head.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp40534/public_html/incl/header.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp49762/public_html/incl/head.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp49791/public_html/incl/header.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp43829/public_html/robots.txt",
+		"/C/Users/vilkk/AppData/Local/Temp/scp47467/public_html/incl/index.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp32027/public_html/robots.txt",
+		"/C/Users/vilkk/AppData/Local/Temp/scp15292/public_html/incl/aktuellt.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp16244/public_html/sv/evenemang.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp17490/public_html/fi/tapahtumat.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp18574/public_html/incl/header.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp38095/public_html/incl/tail.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp44266/public_html/map.xml",
+		"/C/Users/vilkk/AppData/Local/Temp/scp31703/public_html/incl/header.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp51952/public_html/incl/head.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp49308/public_html/incl/aktuellt.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp38398/public_html/incl/facebook.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp39400/public_html/css/master.css",
+		"/C/Users/vilkk/AppData/Local/Temp/scp53294/public_html/sv/cafe.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp53635/public_html/sv/evenemang.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp43847/public_html/sv/restaurang.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp53918/public_html/sv/kontakt.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp32749/public_html/index.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp10005/public_html/incl/mobilemenu.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp38248/public_html/incl/imagemenu.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp56398/public_html/incl/mobileimg.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp53620/public_html/sv/index.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp54256/public_html/fi/yhteys.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp54079/public_html/en/contact.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp04336/public_html/js/menu.js",
+		"/C/Users/vilkk/AppData/Local/Temp/scp54040/public_html/en/index.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp54863/public_html/fi/index.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp40257/public_html/fi/kahvila.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp38586/public_html/incl/footernav.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp39267/public_html/css/imageMenu.css",
+		"/C/Users/vilkk/AppData/Local/Temp/scp43691/public_html/mail.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp43423/public_html/evenemang.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp43323/public_html/sv/evenemang_old.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp42147/public_html/suomi/puutarha.html",
+		"/C/Users/vilkk/AppData/Local/Temp/scp42472/public_html/js/imageMenu.js",
+		"/C/Users/vilkk/AppData/Local/Temp/scp42258/public_html/js/highslide.js",
+		"/C/Users/vilkk/AppData/Local/Temp/scp42074/public_html/js/fx.elements.js",
+		"/C/Users/vilkk/AppData/Local/Temp/scp42943/public_html/js/email.js",
+		"/C/Users/vilkk/AppData/Local/Temp/scp40457/public_html/fi/ravintola.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp54727/public_html/fi/tapahtumat.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp39620/public_html/en/restaurant.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp39252/public_html/en/events.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp39707/public_html/en/cafe.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp38923/public_html/incl/setlang.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp48421/public_html/incl/oppet.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp38571/public_html/incl/newsletter.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp33910/public_html/incl/lang.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp38750/public_html/incl/gallery.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp51091/public_html/incl/copyright.php",
+		"/C/Users/vilkk/AppData/Local/Temp/scp51043/public_html/incl/announcement.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ABOLAND_ORG_OPEN",
+			",",
+			"^\\n",
+			"width: 60px",
+			"width: 55px",
+			"NameHiddenClass",
+			"namehidden",
+			"displayname",
+			"DisplayName()",
+			"Bloodied",
+			"playerdisplaycombatant",
+			"fa-forward",
+			"Hidden",
+			"LoadSavedEncounter",
+			"AddCombatantFromStatBlock",
+			"new Combatant",
+			"processSavedCombatant",
+			"hidden",
+			"savedcombatant",
+			"SavedCombatant",
+			"hiddenclass",
+			"hidden",
+			"Hidden",
+			".buttons",
+			"HiddenClass",
+			"fa-eye",
+			"width",
+			"</div>",
+			"div class=\"menu-item\"",
+			".table",
+			"width:",
+			"line-height",
+			"#copy",
+			"<?php echo ",
+			"; ?>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".",
+			"",
+			"</li>",
+			"li role=\"presentation\"",
+			"'.",
+			".'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sali-app.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
