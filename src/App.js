@@ -18,7 +18,7 @@ function App() {
             {workoutList.map(id => {
               const workout = workouts[id];
               return (
-                <li>
+                <li key={id}>
                   <Link to={'/workouts/' + id}>{workout.name}</Link>
                 </li>
               );

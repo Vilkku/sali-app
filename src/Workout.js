@@ -4,7 +4,8 @@ import { workouts, exercises } from './data';
 import Exercise from './Exercise';
 
 function Workout({ match }) {
-  const workout = workouts[match.params.id];
+  const workoutId = match.params.id;
+  const workout = workouts[workoutId];
 
   return (
     <div>
@@ -15,7 +16,7 @@ function Workout({ match }) {
           {workout.exercises.map(id => {
             const exercise = exercises[id];
             return (
-              <li>
+              <li key={id}>
                 <Link to={`${match.url}/${id}`}>{exercise.name}</Link>
               </li>
             );
