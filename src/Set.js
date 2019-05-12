@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { connect } from 'react-redux';
 
 function Set({ min, max }) {
   const [completed, setCompleted] = useState(false);
@@ -8,7 +9,6 @@ function Set({ min, max }) {
     if (!completed) {
       setCompleted(true);
     } else {
-      console.log(reps, min, max);
       if (reps === max) {
         setReps(min);
       } else {
@@ -38,4 +38,23 @@ function Set({ min, max }) {
   );
 }
 
-export default Set;
+const mapStateToProps = (state, ownProps) => {
+  return {
+    active: ownProps.filter === state.visibilityFilter
+  };
+};
+
+const mapDispatchToProps = (dispatch, ownProps) => {
+  return {
+    onClick: () => {
+      dispatch(setVisibilityFilter(ownProps.filter))
+    }
+  };
+};
+
+const SetContainer = connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(Set);
+
+export default SetContainer;
